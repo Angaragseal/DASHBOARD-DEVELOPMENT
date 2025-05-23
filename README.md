@@ -63,7 +63,7 @@ This structured data allows for rich and flexible exploration across various bus
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **Card Visuals** showing total sales, profits, discounts, and units sold.
 - **Clustered Column Charts** for comparing sales and profits by product or country.
