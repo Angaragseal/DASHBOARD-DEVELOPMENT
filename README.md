@@ -102,3 +102,10 @@ This structured data allows for rich and flexible exploration across various bus
 
 ---
 
+##Output
+
+![Image](https://github.com/user-attachments/assets/e67528a0-aad0-4196-bd56-b628cad94654)
+![Image](https://github.com/user-attachments/assets/d2920fc6-d71c-4172-93ea-db2c0bdd7ef3)
+![Image](https://github.com/user-attachments/assets/b59d5681-0990-4a7d-8371-a1ba17469212)
+![Image](https://github.com/user-attachments/assets/db4bd896-a4ff-45cc-9456-851f8c5020a8)
+
